@@ -39,7 +39,6 @@ public class GetModel {
         List<Table> tableList = new ArrayList<>();
         DatabaseMetaData dbMetaData = connection.getMetaData();
         ResultSet rs = dbMetaData.getTables(null, null, null, new String[] { "TABLE" });
-        int i = 0;
         while (rs.next()) {
             Table table = new Table();
             String tableName = rs.getString("TABLE_NAME");
