@@ -1,5 +1,6 @@
-package ren.test;
-import ren.service.GetModel;
+package com.ren.test;
+
+import com.ren.service.GetModel;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

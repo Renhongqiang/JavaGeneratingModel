@@ -1,4 +1,4 @@
-package ren.model;
+package com.ren.model;
 
 import java.util.List;
 

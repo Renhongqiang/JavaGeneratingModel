@@ -1,8 +1,8 @@
-package ren.service;
+package com.ren.service;
 
 
-import ren.model.Column;
-import ren.model.Table;
+import com.ren.model.Column;
+import com.ren.model.Table;
 
 import java.io.FileWriter;
 import java.io.IOException;

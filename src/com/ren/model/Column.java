@@ -1,4 +1,4 @@
-package ren.model;
+package com.ren.model;
 
 public class Column {
     //  列名
