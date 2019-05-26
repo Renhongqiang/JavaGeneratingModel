@@ -33,7 +33,7 @@ Sometimes I create models based on table information in the database. This tool 
 
 1、Import jar getmodel-1.0.jar or use this project.
 
-2、You can refer to the example src/com/ren/test/Test.java
+2、You can refer to the example <a href="https://github.com/Renhongqiang/JavaGeneratingModel/blob/master/src/com/ren/test/Test.java">src/com/ren/test/Test.java</a>
 
 <pre>
 	//File output path
