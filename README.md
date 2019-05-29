@@ -38,6 +38,7 @@ Sometimes I create models based on table information in the database. This tool 
 <pre>
 	//File output path
        	String path = "H:\\pojo";
+        //conn : Database Connection
         GetModel getModel  = new GetModel(conn);
         /*
         Description：
